@@ -1,3 +1,4 @@
 img {
     width: 100%;
-}
+/*     100% ensures that the images always fits the width of viewport */
+    }
